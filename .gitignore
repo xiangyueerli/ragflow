@@ -193,3 +193,8 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
+mycode/api_output/*
+mycode/*.json
+mycode/*.sh
+mycode/*.jsonl
+.gitignore
